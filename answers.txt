@@ -5,3 +5,8 @@ Answer: Git provides an easy way for version control and an easy method to rever
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science could be applied to marketing, for instance data science could be used to see user data and push them ads that they are more likely to click on.
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging is good for multiple branches and preserves the branches whereas rebasing rewrites the commit history and produces a linear history.
